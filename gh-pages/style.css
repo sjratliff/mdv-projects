@@ -1,0 +1,128 @@
+/*
+ title: style.css Styles
+ By:Stephen Ratliff
+ for: VFW project 4
+ Term: 12-11
+*/
+
+	body {
+  background-image: url("http://i1198.photobucket.com/albums/aa458/Steve_Ratliff/footballfield.png");
+  background-repeat:repeat;
+}
+	
+	h1{
+		border:1px outset #black
+		font-family: "Times New Roman", Times, sans-serif;
+		font-size:75px;
+		font-weight:bold;
+		line-height:70px;
+		text-align:center;
+		text-shadow: 3px 3px 1px rgba(0,0,0,0.2);
+	   
+		}
+	legend{
+		font-size:27px;
+		padding-left: 30px;
+		padding-bottom: 10px;
+		
+		
+		text-align:center;
+		font-weight: bold;
+		font-family: "Times New Roman", Times, sans-serif;
+		text-decoration:none;
+		text-transform:none;
+		color:black;
+		text-shadow: 2px 2px 1px rgba(0,0,0,0.3);
+		
+		}
+	p{
+		color:black;
+		font-size:20px;
+		font-family: "Times New Roman", Times, sans-serif;
+		text-align:center;
+		text-decoration:none;
+		text-transform:none;
+		padding:20px;
+		color:black;
+		
+		
+		
+		}
+	h2{
+		font-size:25px;
+		font-family: "Times New Roman", Times, sans-serif;
+		text-align:center;
+		
+		
+		}
+	label{
+		font-size:19px;
+		color:black;
+		
+		
+		}
+	select{
+		font-size:19px;
+		font-family: "Times New Roman", Times, sans-serif;
+		text-transform:capitalize;
+		
+		
+		
+	}
+	footer{
+		font-size:19px;
+		font-family: "Times New Roman", Times, sans-serif;
+		text-align:center;
+		color:black;
+		text-transform:capitalize;
+		
+	}
+	li{
+		font-size:16px;
+		font-family: "Times New Roman", Times, sans-serif;
+		color:black;
+		text-transform:none;
+	
+	
+	
+	}
+	input{
+		font-size:16px;
+		font-family: "Times New Roman", Times, sans-serif;
+		color:black;
+		text-transform:none;
+		
+		
+	}
+	nav{
+		font-size:19px;
+		font-family: "Times New Roman", Times, sans-serif;
+		text-align:center;
+		color:red;
+		text-transform:capitalize;
+		padding: 3px,4px,3px,4px;
+		
+		
+		
+	}
+	fieldset{
+		
+		background:white;
+		background-position: center;
+		font-family: "Times New Roman", Times, sans-serif;
+		font-size:20px;
+		font-weight:normal;
+		
+	}
+	
+		
+	div{
+		padding-top: 5px;
+		padding-bottom: 10px;
+		background:white;
+		background-position: center;
+		font-family: "Times New Roman", Times, sans-serif;
+		
+	
+	}	
+		
