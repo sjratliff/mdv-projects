@@ -20,6 +20,16 @@
 		text-shadow: 3px 3px 1px rgba(0,0,0,0.2);
 	   
 		}
+	input[type=search]{
+        color: red;
+        text-align: right;
+        cursor: pointer;
+        display: block;
+        width: 100%;
+        letter-spacing: 4px;
+        text-shadow: 0 0 2px black;
+        word-spacing: 20px;
+		}
 	legend{
 		font-size:27px;
 		padding-left: 30px;
@@ -33,7 +43,6 @@
 		text-transform:none;
 		color:black;
 		text-shadow: 2px 2px 1px rgba(0,0,0,0.3);
-		
 		}
 	p{
 		color:black;
@@ -104,14 +113,6 @@
 		
 		
 		
-	}
-	
-		input[type=search] {
-		padding: 30px;            /* Overridden by padding: 1px; */
-		font-family: Georgia;     /* Overridden by font: -webkit-small-control; */
-		border: 5px solid black;  /* Overridden by border: 2px inset; */
-		background: red;          /* Overridden by background-color: white; */
-		line-height: 3;           /* Irrelevant, I guess */
 	}
 	fieldset{
 		
