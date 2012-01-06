@@ -21,6 +21,7 @@
 	   
 		}
 	input[type=search]{
+		font-family: "times roman";
 		color: black;
 		font-size: large;
         text-align: right;
