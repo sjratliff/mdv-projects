@@ -21,6 +21,7 @@
 	   
 		}
 	input[type=search]{
+		font-size: large;
         color: red;
         text-align: right;
         cursor: pointer;
