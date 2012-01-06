@@ -150,7 +150,7 @@ window.addEventListener("DOMContentLoaded", function(){
 				"group": 	["Group:", "Bears"],
 				"tname": 	["Team Name:","My Vick In A Box"],
 				"sex":   	["Sex:","male"],
-				"startdate":["Startdate:","2011-12-13"],
+				"startdate":	["Startdate:","2011-12-13"],
 				"pword":	["Password:","123456"],
 				"cpword":	["Confirm Password:","123456"],
 				"email":	["Email:","sjratliff@me.com"],
@@ -162,7 +162,7 @@ window.addEventListener("DOMContentLoaded", function(){
 				"group": 	["Group:", "Packers"],
 				"tname": 	["Team Name:","Somewhere over Dwayne Bowe"],
 				"sex":   	["Sex:","female"],
-				"startdate":["Startdate:","2011-12-11"],
+				"startdate":	["Startdate:","2011-12-11"],
 				"pword":	["Password:","239900"],
 				"cpword":	["Confirm Password:","239900"],
 				"email":	["Email:","section22@yahoo.com"],
@@ -225,7 +225,7 @@ window.addEventListener("DOMContentLoaded", function(){
                radios[i].setAttribute("checked" , "checked");
                }
            }
-        $('startdate').value = item.date[1];
+        $('startdate').value = item.startdate[1];
         $('pword')    .value = item.pword[1];
         $('cpword')   .value = item.cpword[1];
         $('email')    .value = item.email[1];
