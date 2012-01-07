@@ -1,8 +1,8 @@
 /*
  title: style.css Styles
  By:Stephen Ratliff
- for: VFW project 4
- Term: 12-11
+ for: MIU project 1
+ Term: 01-12
 */
 
 	body {
@@ -13,17 +13,17 @@
 	h1{
 		border:1px outset #black
 		font-family: "Times New Roman", Times, sans-serif;
-		font-size:50px;
+		font-size:25px;
 		font-weight:bold;
-		line-height:70px;
+		line-height:40px;
 		text-align:center;
 		text-shadow: 3px 3px 1px rgba(0,0,0,0.2);
 	   
 		}
 	input[type=search]{
-		font-family: "times roman";
+		font-size: medium;
+		font-family: "Times New Roman";
 		color: black;
-		font-size: large;
         text-align: right;
         cursor: pointer;
         display: block;
@@ -48,12 +48,12 @@
 		}
 	p{
 		color:black;
-		font-size:20px;
+		font-size: 20px;
 		font-family: "Times New Roman", Times, sans-serif;
 		text-align:center;
 		text-decoration:none;
 		text-transform:none;
-		padding:20px;
+		padding: 1px;
 		color:black;
 		
 		
@@ -125,15 +125,10 @@
 		font-weight:normal;
 		
 	}
+	#menu1
+	{text-align: center;
+	}
 	
-		
-	div{
-		padding-top: 5px;
-		padding-bottom: 10px;
-		background:white;
-		background-position: center;
-		font-family: "Times New Roman", Times, sans-serif;
-		
 	
-	}	
+	
 		
