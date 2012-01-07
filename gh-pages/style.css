@@ -120,8 +120,6 @@
 	
 		
 	div{
-		list-style-position: outside;
-		list-style-type: square;
 		padding: 5px;
 		text-align: center;
 		background-position: center;
@@ -129,7 +127,7 @@
 		
 	
 	}
-	#menu1{ padding: 0px; margin: 0px; border-color: #b9b9b9; border-width: 2px; border-style: solid; background-color: white; border-radius: 5px; }
+	#menu1{ padding: 0px; margin: 0px; border-color: #b9b9b9; border-width: 2px; border-style: solid; background-color: white; 	   border-radius: 5px; }
 	#menu2{ padding: 0px; margin: 0px; border-color: #b9b9b9; border-width: 2px; border-style: solid; background-color: white; border-radius: 5px; }
 	#menu3{ border-color: #b9b9b9; border-width: 2px; border-style: solid; background-color: white; border-radius: 5px; }
 	#menu4{ border-color: #b9b9b9; border-width: 2px; border-style: solid; background-color: white; border-radius: 5px; }
