@@ -1,8 +1,8 @@
 /*
  title: style.css Styles
  By:Stephen Ratliff
- for: MIU project 1
- Term: 01-12
+ for: VFW project 4
+ Term: 12-11
 */
 
 	body {
@@ -13,24 +13,12 @@
 	h1{
 		border:1px outset #black
 		font-family: "Times New Roman", Times, sans-serif;
-		font-size:25px;
+		font-size:40px;
 		font-weight:bold;
-		line-height:40px;
+		line-height:45px;
 		text-align:center;
 		text-shadow: 3px 3px 1px rgba(0,0,0,0.2);
 	   
-		}
-	input[type=search]{
-		font-size: medium;
-		font-family: "Times New Roman";
-		color: black;
-        text-align: right;
-        cursor: pointer;
-        display: block;
-        width: 100%;
-        letter-spacing: 4px;
-        text-shadow: 0 0 2px black;
-        word-spacing: 20px;
 		}
 	legend{
 		font-size:27px;
@@ -45,15 +33,16 @@
 		text-transform:none;
 		color:black;
 		text-shadow: 2px 2px 1px rgba(0,0,0,0.3);
+		
 		}
 	p{
 		color:black;
-		font-size: 20px;
+		font-size:20px;
 		font-family: "Times New Roman", Times, sans-serif;
 		text-align:center;
 		text-decoration:none;
 		text-transform:none;
-		padding: 1px;
+		padding:20px;
 		color:black;
 		
 		
@@ -98,9 +87,12 @@
 	
 	}
 	input{
+		text-align: center;
+		padding: 5px;
+		background-color: white;
 		font-size:16px;
 		font-family: "Times New Roman", Times, sans-serif;
-		color:black;
+		color: black;
 		text-transform:none;
 		
 		
@@ -125,10 +117,25 @@
 		font-weight:normal;
 		
 	}
-	#menu1
-	{text-align: center;
+	
+		
+	div{
+		list-style-position: outside;
+		list-style-type: square;
+		padding: 5px;
+		text-align: center;
+		background-position: center;
+		font-family: "Times New Roman", Times, sans-serif;
+		
+	
 	}
-	
-	
+	#menu1{ padding: 0px; margin: 0px; border-color: #b9b9b9; border-width: 2px; border-style: solid; background-color: white; border-radius: 5px; }
+	#menu2{ padding: 0px; margin: 0px; border-color: #b9b9b9; border-width: 2px; border-style: solid; background-color: white; border-radius: 5px; }
+	#menu3{ border-color: #b9b9b9; border-width: 2px; border-style: solid; background-color: white; border-radius: 5px; }
+	#menu4{ border-color: #b9b9b9; border-width: 2px; border-style: solid; background-color: white; border-radius: 5px; }
+	#menu5{ border-color: #b9b9b9; border-width: 2px; border-style: solid; background-color: white; border-radius: 5px; }
+	#menu6{ border-color: #b9b9b9; border-width: 2px; border-style: solid; background-color: white; border-radius: 5px; }
+	#menu7{ border-color: #b9b9b9; border-width: 2px; border-style: solid; background-color: white; border-radius: 5px; }
+	#menu8{ border-width: 2px; border-color: #c7c7c7; border-style: solid; width: 290px; background-color: white; border-radius: 5px; }
 	
 		
